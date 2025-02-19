@@ -20,9 +20,9 @@ All extracted data was then inserted into my **SQLite database**.
 With the lyrics stored, it was time to analyze their sentiment. I opted for a **lexicon-based approach** using a sentiment file (`subjclueslen1-HLTEMNLP05.tff`).  
 
 Here’s how I calculated sentiment scores:  
-- 🔹 **Parsing the sentiment file:** This lexicon contains words labeled as positive or negative, with strength indicators.  
-- 🔹 **Scoring lyrics:** Each word in a song was matched against the lexicon. Positive words increased the score, and negative words decreased it. Stronger words had **double impact**.  
-- 🔹 **Updating the database:** I added a `sentiment_score` column and stored each song’s calculated sentiment value.  
+🔹 **Parsing the sentiment file:** This lexicon contains words labeled as positive or negative, with strength indicators.  
+🔹 **Scoring lyrics:** Each word in a song was matched against the lexicon. Positive words increased the score, and negative words decreased it. Stronger words had **double impact**.  
+🔹 **Updating the database:** I added a `sentiment_score` column and stored each song’s calculated sentiment value.  
 
 ## Step 3: Visualizing the Insights  
 
