@@ -6,7 +6,7 @@ Has the sentiment in Nick Cave's lyrics changed over time? That’s what I set o
 
 To begin, I needed a structured dataset of Cave’s lyrics. I created an **SQL database** to store each song’s title, album name, release year, and lyrics.  
 
-At first, I attempted to scrape the lyrics directly from [azlyrics.com](https://www.azlyrics.com), but while wroking on the code, the site eventually blocked my requests due to suspicious behavior. As a workaround, I used a provided dataset of HTML files containing the lyrics.  
+At first, I attempted to scrape the lyrics directly from [azlyrics.com](https://www.azlyrics.com), but while testing the code, the site eventually blocked my requests due to suspicious behavior. As a workaround, I used a dataset of HTML files containing the lyrics.  
 
 Using **BeautifulSoup**, I parsed the HTML files to extract:  
 ✅ **Lyrics** (cleaned and formatted)  
