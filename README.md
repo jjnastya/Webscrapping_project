@@ -43,11 +43,13 @@ Using **interactive filters and slicers**, the Tableau dashboard allows users to
 📅 Filter by album or decade  
 🎵 Compare the sentiment of different songs  
 
+![Dashboard](./dashboardpic.png)
+
 ## The Takeaway  
 
 This project uncovered fascinating insights into Nick Cave’s lyrical evolution. Some albums show a sharp shift in tone, while others maintain a consistent emotional depth. By mapping sentiment over time, we get a data-driven glimpse into how Cave’s songwriting has changed.  
 
 Another important takeaway was the fact that it allowed me to practice and learn something new about web scraping with Python.
 
-For those interested, you can check out the [**Tableau Public link**](https://public.tableau.com/app/profile/anastasiia.mozharova/viz/visuals_17379860886380/NickCaveTheBadSeedsSentimentAnalysis?publish=yes).  
+For those who want to interact with the dashboard, you can check out the [**Tableau Public link**](https://public.tableau.com/app/profile/anastasiia.mozharova/viz/visuals_17379860886380/NickCaveTheBadSeedsSentimentAnalysis?publish=yes).  
 
