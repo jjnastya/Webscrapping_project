@@ -1,4 +1,4 @@
-# Analyzing 40 Years of Nick Cave’s Lyrics: A Sentiment Deep Dive  
+# Analysis of Nick Cave’s Lyrics: A Sentiment Deep Dive  
 
 Has the sentiment in Nick Cave's lyrics changed over time? That’s what I set out to explore by analyzing his lyrics from the past 40 years.  
 
