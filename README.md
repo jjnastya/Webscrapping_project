@@ -11,7 +11,9 @@ At first, I attempted to scrape the lyrics directly from [azlyrics.com](https://
 Using **BeautifulSoup**, I parsed the HTML files to extract:  
 ✅ **Lyrics** (cleaned and formatted)  
 ✅ **Song title** (from embedded JavaScript)  
-✅ **Album name & release year** (from the page’s metadata)  
+✅ **Album name & release year** (from the page’s metadata) 
+
+[The process.](scraping.py)
 
 All extracted data was then inserted into my **SQLite database**.  
 
