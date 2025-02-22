@@ -51,5 +51,5 @@ This project uncovered fascinating insights into Nick Cave’s lyrical evolution
 
 Another important takeaway was the fact that it allowed me to practice and learn something new about web scraping with Python.
 
-For those who want to interact with the dashboard, you can check out the [**Tableau Public link**](https://public.tableau.com/app/profile/anastasiia.mozharova/viz/visuals_17379860886380/NickCaveTheBadSeedsSentimentAnalysis?publish=yes).  
+For those who want to interact with the dashboard, you can check it out on [**Tableau Public**](https://public.tableau.com/app/profile/anastasiia.mozharova/viz/visuals_17379860886380/NickCaveTheBadSeedsSentimentAnalysis?publish=yes).  
 
